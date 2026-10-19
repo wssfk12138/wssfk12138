@@ -7,10 +7,10 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://www.fastaitoken.com/register?aff=BF9KNKFHX725&amp;promo=WSSFK"><img src="assets/sponsor-fastai.png" width="100%" alt="FastAI 模型中转，支持文字、图片、视频生成；国模低延迟、高缓存，注册领取 3 美元体验金"></a>
+<a href="https://www.fastaitoken.com/register?aff=BF9KNKFHX725&amp;promo=WSSFK" target="_blank" rel="noopener noreferrer"><img src="assets/sponsor-fastai.png" width="100%" alt="FastAI 模型中转，支持文字、图片、视频生成；国模低延迟、高缓存，注册领取 3 美元体验金"></a>
 </td>
 <td width="50%" valign="top">
-<a href="https://wssfks.citrusamber17.chatgpt.site"><img src="assets/sponsor-gpt.png" width="100%" alt="GPT 订阅充值：小白先看 5 步图文教程，再选择地区、付款并兑换"></a>
+<a href="https://wssfks.citrusamber17.chatgpt.site" target="_blank" rel="noopener noreferrer"><img src="assets/sponsor-gpt.png" width="100%" alt="GPT 订阅充值：小白先看 5 步图文教程，再选择地区、付款并兑换"></a>
 </td>
 </tr>
 </table>
